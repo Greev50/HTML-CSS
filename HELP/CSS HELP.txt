@@ -1,0 +1,10 @@
+background - ясен фиг
+font-size - размер шрифта
+color - цвет
+border - рамка текста
+border-radius - скругление рамки
+padding: **px **px **px **px - отступы, по часовой стрелке
+font-weight - стиль цвета, (bold, italic, thin...)
+font-family - шрифт
+text-alighn:** - положение на экране
+    ** = center
