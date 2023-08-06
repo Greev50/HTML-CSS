@@ -1,0 +1,51 @@
+body{
+    background:rgb(94, 103, 146)
+}
+
+h1{
+    color:white
+}
+
+h2{
+    color:white
+}
+
+span{
+    color:rgba(3, 33, 168, 0.952)
+}
+
+.span1{
+    color:red
+}
+
+.span2{
+    color:rgba(166, 255, 0, 0.952)
+}
+
+.p1{
+    color:rgba(255, 94, 0, 0.952);
+    font-size:32px
+}
+.p2{
+    color:rgba(166, 255, 0, 0.952)
+}
+.p3{
+    color:rgba(3, 33, 168, 0.952)
+}
+
+ol{
+    color:darkgrey;
+    text-shadow:
+    2px 0 black,
+    0 -2px black,
+    -2px 0 black,
+    0 2px black;
+    background:rgb(69, 91, 199)
+}
+.pdz{
+    font-size:24px;
+    font-weight:italic;
+    text-align:center;
+    color:rgb(223, 202, 16);
+    text-shadow:4px 4px 3px green;
+}
